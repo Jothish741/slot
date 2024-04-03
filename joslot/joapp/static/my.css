@@ -1,0 +1,22 @@
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: red;
+}
+.bg{
+    background-color: rgb(101, 174, 160);
+}
+.table1{
+    background-color: rgb(172, 177, 74);
+}
+.table2{
+    background-color: rgb(200, 149, 149);
+}    
+.dt{
+    background-color: rgb(166, 224, 232);
+}
+b{ 
+    color:rgb(36, 99, 105); 
+}
+.ta{
+    text-align: center;
+}
